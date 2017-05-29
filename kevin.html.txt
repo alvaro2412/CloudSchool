@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<title>Biografia </title>
+<DIV ALIGN=center><h1>Biografía de Kevin Garcia</h1></DIV>
+
+<DIV ALIGN=center><img src="http://images4.fanpop.com/image/photos/19700000/Yugi-muto-yugi-mutou-19779187-300-350.jpg"/></DIV> </br>
+
+</head>
+<body>
+
+
+<FONT FACE="arial" SIZE=4 COLOR="blue"> 
+Hola soy  <strong>Kevin Antonio Garcia 04:06 p.m. 29/03/2017 04:06 p.m. 29/03/2017 </strong> , nací en 1996 en Lima, mis padres son Emilio Antonio Garcia Varas y Beatriz Doris Alvarez, tengo 1 hermano llamado Fabricio Garcia Tanchiva y hasta ahora vivimos en Huachipa.
+
+<p style="color:blue;", <FONT FACE="calibri">Mi vida académica es tranquila y emocionante, mis notas son buenas y por el momento no he jalado ningun curso, siempre he conocido muy buenos amigos ademas de salir con ellos y pasar buenos momentos.Pasé la primaria en el colegio Los Hijos De Maria, en la secundaria continue en el mismo colegio.
+Terminando el colegio postule e ingrese a la USIL ubicado en la Molina gracias a mi esfuerzo y apoyo de Dios.Si fuera presidente apoyaria a los necesitados, ademas de darle una pesion y otra propuesta seria la pena de carcel por maltrato a la mujer. </font>
+</p>
+
+<DIV ALIGN=center>
+<img src="http://cde.3.elcomercio.pe/ima/0/0/8/3/9/839700/base_image.jpg"/> 
+&nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp  &nbsp  &nbsp <!--espacio entre imagenes  -->
+<img src="http://oiprodat.com/wp-content/uploads/2016/08/colegios.jpg"></DIV></br>
+
+
+<p style="color:black"; > <FONT FACE="Comic sans MS">
+En mi tiempo libre lo paso en los videojuegos, por ejemplo God Of War, Sonic, Yu Gi Oh Duel Links; de alli empece con juegos de disparo como counter strike o GTA5 y tambien con juegos deportivos como Fifa Street o pes2017. Por ahora solo juego en mi laptop Yu Gi Oh Duel Links.</font></p>
+
+<DIV ALIGN=center>
+<img src="http://vignette3.wikia.nocookie.net/godofwar/images/f/f6/Gods.jpg/revision/latest?cb=20110330123007"/> 
+&nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp  &nbsp  &nbsp <!--espacio entte imagenes  -->
+<img src="https://2.bp.blogspot.com/-0AwOKQKkgOo/V9tJBWUNo2I/AAAAAAAABG0/VR5WCKN5RbouEgY9whJtP7mbX6JhuJ22QCLcB/s1600/yu-gi-oh%2521-duel-links-1.PNG"></DIV></br>
+
+Si quieren jugar, les dejo el link de descarga: <a href="http://yu-gi-oh-duel-links.uptodown.com/android">www.duellinks.com/dlYGno-links.htm </a>
+
+</body>
+
+</html>
