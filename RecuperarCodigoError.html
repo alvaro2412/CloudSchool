@@ -1,70 +1,29 @@
+<!DOCTYPE html>
 <html>
     <head>
         <title>Formulario de registro</title>
-        <style>
-        body {
-            background-color: #2B78E4;
-            font-family: Arial;
-        }
-        #formulario{
-            margin: auto;
-            width: 500px;
-            border: 1px solid grey;
-            border-top:16px solid #0e3e8c;
-            padding: 20px;
-        }
-       
-        img{
-            display:block;
-            margin: auto;
-            border-top:90px solid #2B78E4;
-        }
-        #Nose{
-            font-size: 20px;
-            margin: auto;
-            border-bottom:20px solid #2B78E4; 
-            border-top: 20px solid #2B78E4;
-        }
-        #envio{
-            font-family: Arial;
-            font-size: 14px;
-            margin: auto;
-        }
-        #hola{
-            display: block;
-            margin: auto;
-            width: 200px;
-        }
-        #boton{
-            display: block;
-            margin:auto;
-            margin-top: 20px;
-        }
-        #abc{
-            display: block;
-            margin:auto;
-            margin-top: 10px;
-            text-align:center
-        }
-        </style>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link href="pruebas.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <header>
             <img src="http://imgur.com/7wzhcg9.jpg"/>
         </header>
         <nav>
-            <p id="Nose" align = "Center"><font face ="Arial"><Strong>Recupera tu cuenta</Strong></font></p> <br/>
-            <p style="color:white" id= "envio" align="Center"><Strong>Le hemos enviado un mensaje a su correo,</Strong></p>
-            <p style="color:white" id= "envio" align="Center"><Strong> ingrese su código de confirmación</Strong></p> <br/>
-            <p style ="color:#8A0808" align = "Center" ><Strong> Código incorrecto </Strong></p>
-            
+            <p id="A1"><Strong>Recupera tu cuenta</Strong></p>
+			
+			<blockquote id="A2"><Strong>Le hemos enviado un mensaje a su correo,</Strong><br/>
+			<Strong>ingrese su código de confirmación</Strong>
+			</blockquote>
+           
+			
+            <p id="A3"><Strong>Código incorrecto </Strong></p>
         </nav>
         <section>
-            <input type = "text" placeholder ="Código" id="hola"/>
-            <button id="Boton">Aceptar</button>
-            <br/><a href="google.com" id="abc">Términos de uso</a>
+            <input id="hola" type = "text" placeholder ="Código" />
+            <button id="Aboton">Aceptar</button>
+            <br/><a id="abc" href="google.com" >Terminos de uso</a>                                                                                                                                                                                                      
         </section>
-        
-        
     </body>
 </html>
+
