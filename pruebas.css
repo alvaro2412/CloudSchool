@@ -1,0 +1,53 @@
+body {
+            background-color: #2B78E4;
+            font-family: Arial;
+        }
+        #formulario{
+            margin: auto;
+            width: 500px;
+            border: 1px solid grey;
+            border-top:16px solid #0e3e8c;
+            padding: 20px;
+        }
+       
+        img{
+            display:block;
+            margin: auto;
+            border-top:90px solid #2B78E4;
+        }
+        #Nose{
+            font-size: 20px;
+            margin: auto;
+            border-bottom:20px solid #2B78E4; 
+            border-top: 20px solid #2B78E4;
+        }
+        #envio{
+            font-family: Arial;
+            font-size: 14px;
+            margin: auto;
+        }
+        #hola{
+            display: block;
+            margin: auto;
+            width: 200px;
+        }
+        #boton{
+            display: block;
+            margin:auto;
+            margin-top: 20px;
+        }
+        #abc{
+            display: block;
+            margin:auto;
+            margin-top: 10px;
+            text-align:center
+        }
+		#A1{
+			color: white;
+			aling: center;
+			font-family: Arial;
+		}
+		#A2{
+		color:#8A0808;
+		aling: center;
+}
