@@ -1,51 +1,83 @@
 body {
-            background-color: #2B78E4;
+            background-color:#2B78E4;
             font-family: Arial;
         }
-        #formulario{
+		#Adiv{
+			width:960px;
+			margin:auto;
+			margin-top:20px;
+			margin-bottom:20px;
+		}
+		#Aheader{
+			margin-top:120px;
+			width:495px;
+			height:85px;
+			margin:auto;
+			
+		}
+		#Aheader #Aimg{
+			border-radius: 10px;
+			margin-top:60px;
+			
+		}
+		#Asection{
+			width:500px;
+			height:250px;
+			margin:auto;
+			background:#2B78E4;
+			margin-bottom:20px;
+			border-radius: 10px;
+			margin-top:110px;
+			background: linear-gradient( #80b3ff, #0066ff)
+		}
+		#Aa{
+			display: block;
             margin: auto;
-            width: 500px;
-            border: 1px solid grey;
-            border-top:16px solid #0e3e8c;
-            padding: 20px;
-        }
-       
-        img{
-            display:block;
+            text-align:center;
+		}
+		#Aaa{
+			display: block;
             margin: auto;
-            border-top:90px solid #2B78E4;
-        }
-        #hola{
+            text-align:center;
+		}
+        #Ainput{
             display: block;
-            margin: auto;
-            width: 200px;
+			padding:5px;
+			width:50%;
+			margin:auto;
+			font-size:16px;
+			margin-bottom:10px;
+			
         }
         #Aboton{
             display: block;
-            margin:auto;
-            margin-top: 20px;
+			padding:5px;
+			width:40%;
+			margin:auto;
+			font-size:16px;
+			margin-bottom:10px;
+			background: linear-gradient( #80b3ff,#00ff99);
+			border:0;
+			color: black;
+			opacity:0.8;
+			cursor:pointer;
+			border-radius:10px;
         }
-        #abc{
-            display: block;
-            margin:auto;
-            margin-top: 10px;
-            text-align:center
-        }
-	#A1{
+		#A1{
 			color: black;
 			font-size:20px;
-			text-align: center;
 			font-family: Arial;
+			padding-top:10px;
+			display: block;
+            margin: auto;
+            text-align:center;
 		}
 		#A2{
 			color: white;
 			font-size:14px;
 			text-align: center;
-			font-family: Arial;
-			border-bottom:1px solid #2B78E4; 
-            
+			font-family: Arial;			         
 		}
 		#A3{
 		color:#8A0808;
 		text-align: center;
-}
