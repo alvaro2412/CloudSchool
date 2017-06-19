@@ -12,7 +12,7 @@ Colegios privados y publicos / Ministerio de Educacion.
 
 ![](http://3.bp.blogspot.com/-lp0QrgO57mc/UZZTe_1vH_I/AAAAAAAAADo/r2k2Js7syGA/s1600/colegio.jpg "Colegios Publicos y Privados")
 
-## Estrategia de Rentabilizacion de CloudSchool:
+## Estrategia de Rentabilizacion:
 
 1. Promueve la interaccion de padres hacia la institucion educativa.
 2. Promueve metodos de estudio e-learning y b-learning.
@@ -23,13 +23,13 @@ Colegios privados y publicos / Ministerio de Educacion.
 
 ![](http://mamadigital.mx/blog/wp-content/uploads/2016/06/elearning-video-chat.jpg "Metodos de estudio E-Learning/B-Learning")
 
-## Vision de CloudSchool:
+## Vision:
 
 Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo ganar la confianza y recomendacion de los usuarios con el tiempo.
 
 ![](http://www.zocalo.com.mx/images/uploads/articles/147059934241.jpg "Vision de nuestra Intranet")
 
-## Integrantes
+## Integrantes:
 
 1. Calderon Marcelo.
 2. Garcia Pozo Kevin Antonio.
