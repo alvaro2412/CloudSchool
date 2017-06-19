@@ -4,13 +4,13 @@ CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobr
 
 **¡TODO DESDE LA COMODIDAD DE TU HOGAR!**
 
-![](https://decoraciondesala.com/wp-content/uploads/2015/01/como-decorar-tu-sala-de-estudio3.jpg "ENTREGA DE NOTAS MENSUAL") 
+![](https://decoraciondesala.com/wp-content/uploads/2015/01/como-decorar-tu-sala-de-estudio3.jpg "Comodidad en el hogar") 
 
 ## Público objetivo
 
 Colegios privados y publicos / Ministerio de Educacion.
 
-![](https://cde.peru.com/ima/0/1/0/6/3/1063917/924x530/anime.jpg "Colegios")
+![](http://3.bp.blogspot.com/-lp0QrgO57mc/UZZTe_1vH_I/AAAAAAAAADo/r2k2Js7syGA/s1600/colegio.jpg "Colegios")
 
 ## Integrantes
 
