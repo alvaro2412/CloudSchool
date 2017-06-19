@@ -10,7 +10,7 @@ CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobr
 
 Colegios privados y publicos / Ministerio de Educacion.
 
-![](http://3.bp.blogspot.com/-lp0QrgO57mc/UZZTe_1vH_I/AAAAAAAAADo/r2k2Js7syGA/s1600/colegio.jpg "Colegios Publicos y Privados")
+:---![](http://3.bp.blogspot.com/-lp0QrgO57mc/UZZTe_1vH_I/AAAAAAAAADo/r2k2Js7syGA/s1600/colegio.jpg "Colegios Publicos y Privados")---:
 
 ## Estrategia de Rentabilizacion de CloudSchool:
 
