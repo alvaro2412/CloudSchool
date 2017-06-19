@@ -6,13 +6,13 @@ CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobr
 
 ![](https://decoraciondesala.com/wp-content/uploads/2015/01/como-decorar-tu-sala-de-estudio3.jpg "Comodidad en el hogar") 
 
-## Público objetivo
+## Público objetivo:
 
 Colegios privados y publicos / Ministerio de Educacion.
 
 ![](http://3.bp.blogspot.com/-lp0QrgO57mc/UZZTe_1vH_I/AAAAAAAAADo/r2k2Js7syGA/s1600/colegio.jpg "Colegios Publicos y Privados")
 
-### Estrategia de Rentabilizacion del producto
+## Estrategia de Rentabilizacion de CloudSchool:
 
 1. Promueve la interaccion de padres hacia la institucion educativa.
 2. Promueve metodos de estudio e-learning y b-learning.
@@ -21,8 +21,11 @@ Colegios privados y publicos / Ministerio de Educacion.
 5. Facil de entender para los apoderados como el alumnado.
 6. Soporte tecnico (Ayuda las 24 hr).
 
+## Vision de CloudSchool:
 
-#### Integrantes
+Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo ganar la confianza hacia los usuarios con ell tiempo.
+
+## Integrantes
 
 1. Calderon Marcelo.
 2. Garcia Pozo Kevin Antonio.
