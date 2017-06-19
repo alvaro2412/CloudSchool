@@ -21,13 +21,13 @@ Colegios privados y publicos / Ministerio de Educacion.
 5. Facil de entender para los apoderados como el alumnado.
 6. Soporte tecnico (Ayuda las 24 hr).
 
-![](http://mamadigital.mx/blog/wp-content/uploads/2016/06/elearning-video-chat.jpg "E-Learning/B-Learning")
+![](http://mamadigital.mx/blog/wp-content/uploads/2016/06/elearning-video-chat.jpg "Metodos de estudio E-Learning/B-Learning")
 
 ## Vision de CloudSchool:
 
 Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo ganar la confianza y recomendacion de los usuarios con el tiempo.
 
-![](http://www.zocalo.com.mx/images/uploads/articles/147059934241.jpg "Vision")
+![](http://www.zocalo.com.mx/images/uploads/articles/147059934241.jpg "Vision de nuestra Intranet")
 
 ## Integrantes
 
