@@ -8,7 +8,7 @@ CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobr
 
 ## Público objetivo
 
-
+Colegios privados y publicos / Ministerio de Educacion.
 
 ## Integrantes
 
