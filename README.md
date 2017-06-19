@@ -12,7 +12,8 @@ Colegios privados y publicos / Ministerio de Educacion.
 
 ## Integrantes
 
-1. Ordinola Bocanegra Alvaro.
-2. Julca Salvador Fray Billy.
-3. Calderon Marcelo.
-4. Garcia Pozo Kevin Antonio.
+1. Calderon Marcelo.
+2. Garcia Pozo Kevin Antonio.
+3. Julca Salvador Fray Billy.
+4. Ordinola Bocanegra Alvaro.
+
