@@ -1,6 +1,6 @@
 # CLOUDSCHOOL 
 
-CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobre el proceso academico de los alumnos y desarrollo estudiantil.
+CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobre el proceso academico de los alumnos y desarrollo estudiantil; comunicacion activa entre los padres o apoderados con la entidad estudiantil.
 
 *¡TODO DESDE LA COMODIDAD DE TU HOGAR!*
 
