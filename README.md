@@ -2,7 +2,7 @@
 
 CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobre el proceso academico de los alumnos y desarrollo estudiantil.
 
-![TODO DESDE LA COMODIDAD DE TU HOGAR](https://www.pinterest.com/pin/381398662165700241/ "=)") 
+![TODO DESDE LA COMODIDAD DE TU HOGAR](https://www.pinterest.com/pin/381398662165700241/ "a") 
 
 ## Público objetivo
 
