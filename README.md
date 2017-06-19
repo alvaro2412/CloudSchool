@@ -10,6 +10,8 @@ CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobr
 
 Colegios privados y publicos / Ministerio de Educacion.
 
+![]https://cde.peru.com/ima/0/1/0/6/3/1063917/924x530/anime.jpg "Colegios")
+
 ## Integrantes
 
 1. Calderon Marcelo.
