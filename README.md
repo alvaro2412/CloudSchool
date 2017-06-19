@@ -23,7 +23,7 @@ Colegios privados y publicos / Ministerio de Educacion.
 
 ## Vision de CloudSchool:
 
-Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo ganar la confianza hacia los usuarios con ell tiempo.
+Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo ganar la confianza y recomendacion de los usuarios con el tiempo.
 
 ## Integrantes
 
