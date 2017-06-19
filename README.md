@@ -10,8 +10,6 @@ CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobr
 
 Colegios privados y publicos / Ministerio de Educacion.
 
-:------:
-
 ![](http://3.bp.blogspot.com/-lp0QrgO57mc/UZZTe_1vH_I/AAAAAAAAADo/r2k2Js7syGA/s1600/colegio.jpg "Colegios Publicos y Privados")
 
 ## Estrategia de Rentabilizacion de CloudSchool:
@@ -22,6 +20,8 @@ Colegios privados y publicos / Ministerio de Educacion.
 4. Aplicacion movil con alertas.
 5. Facil de entender para los apoderados como el alumnado.
 6. Soporte tecnico (Ayuda las 24 hr).
+
+![](http://mamadigital.mx/blog/wp-content/uploads/2016/06/elearning-video-chat.jpg "E-Learning/B-Learning")
 
 ## Vision de CloudSchool:
 
