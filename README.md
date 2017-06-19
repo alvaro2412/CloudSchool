@@ -1,6 +1,8 @@
-# CloudSchool, intranet para colegios :D!
+# CLOUDSCHOOL 
 
-CloudSchool es un **proyecto** .... asdsad 
+CloudSchool es una intranet para supervisar,adquirir,solicitar y evidenciar sobre el proceso academico de los alumnos y desarrollo estudiantil.
+
+*¡TODO DESDE LA COMODIDAD DE TU HOGAR!*
 
 ## Público objetivo
 
