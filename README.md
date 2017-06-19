@@ -27,6 +27,8 @@ Colegios privados y publicos / Ministerio de Educacion.
 
 Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo ganar la confianza y recomendacion de los usuarios con el tiempo.
 
+![](http://www.zocalo.com.mx/images/uploads/articles/147059934241.jpg "Vision")
+
 ## Integrantes
 
 1. Calderon Marcelo.
