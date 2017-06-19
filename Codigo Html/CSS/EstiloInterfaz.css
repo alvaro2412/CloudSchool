@@ -1,0 +1,61 @@
+body{
+	background-color:#2B7BE4;
+	font: bold 120% cursive;
+	font-size:25px;
+}
+
+#buscar{
+	width:80%;
+	background: url(https://image.flaticon.com/icons/svg/54/54527.svg) no-repeat ;
+	background-position: 4px -91px;
+	background-color:white;
+}
+
+header{
+	margin:auto;
+}
+
+#izq{
+	float:left;
+	width:50%;
+	border:1px solid black;
+	text-align:center;
+	height:670px;
+}
+
+#listaC{
+	margin:auto;
+	width:60%;
+	background-color:#5E9BD0;
+	margin-top:75px;
+}
+
+li{
+	text-align:left;
+	padding:15px;
+	list-style-type:none;
+}
+
+#der{
+	margin-left:50%;
+	border:1px solid black;
+}
+
+#uno{
+	margin:20px;
+	border:1px solid white;
+	height:100px;
+}
+
+#dos{
+	margin:20px;
+	border:1px solid white;
+	height:100px;
+	text-align:center;
+}
+
+#tres{
+	margin:20px;
+	border:1px solid white;
+	height:350px;
+}
