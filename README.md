@@ -12,9 +12,7 @@ Colegios privados y publicos / Ministerio de Educacion.
 
 ## Integrantes
 
-* Juan
-* Jose
-* Maria
-
-1. Jose
-2. Juan
+1. Ordinola Bocanegra Alvaro.
+2. Julca Salvador Fray Billy.
+3. Calderon Marcelo.
+4. Garcia Pozo Kevin Antonio.
