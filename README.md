@@ -42,8 +42,6 @@ Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo g
 
 ## Cualquier consulta ingresar a : 
 
-[Ministerio de Educacion](http://www.minedu.gob.pe "")
+[Ministerio de Educacion](http://www.minedu.gob.pe "Ministerio de Educacion del Peru")
 
-http://www.minedu.gob.pe
-
-http://www.bnp.gob.pe/index.php/es/
+[Biblioteca Nacional](http://www.bnp.gob.pe/index.php/es/ "Biblioteca Nacional del Peru")
