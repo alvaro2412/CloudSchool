@@ -42,12 +42,12 @@ Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo g
 
 ## Red CloudSchool : 
 
-[Biblioteca Nacional del Peru](http://www.bnp.gob.pe/index.php/es/ "Biblioteca Nacional del Peru")
+[*Biblioteca Nacional del Peru*](http://www.bnp.gob.pe/index.php/es/ "Biblioteca Nacional del Peru")
 
-[Cambridge Dictionary](http://dictionary.cambridge.org/es/ "Cambridge Dictionary")
+[*Cambridge Dictionary*](http://dictionary.cambridge.org/es/ "Cambridge Dictionary")
 
-[Mathway](https://www.mathway.com/Algebra "Enciclopedia Matematica Virtual")
+[*Mathway*](https://www.mathway.com/Algebra "Enciclopedia Matematica Virtual")
 
-[Ministerio de Educacion del Peru](http://www.minedu.gob.pe "Ministerio de Educacion del Peru")
+[*Ministerio de Educacion del Peru*](http://www.minedu.gob.pe "Ministerio de Educacion del Peru")
 
-[Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada "Enciclopedia Virtual")
+[*Wikipedia*](https://es.wikipedia.org/wiki/Wikipedia:Portada "Enciclopedia Virtual")
