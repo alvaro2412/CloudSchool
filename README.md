@@ -40,4 +40,4 @@ Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo g
 
 ![](http://archivo.eluniversal.com.mx/img/2013/07/Ciu/sep_computadoras-movil.jpg "Alumnos usando la intranet CloudSchool")
 
-[](http://www.minedu.gob.pe/ "Ministerio de Educacion del Peru")
+http://www.minedu.gob.pe
