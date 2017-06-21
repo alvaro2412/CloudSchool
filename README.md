@@ -38,4 +38,4 @@ Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo g
 
 **¡EDUCACION MIRANDO HACIA EL FUTURO!**
 
-![](https://s-media-cache-ak0.pinimg.com/736x/a5/68/1c/a5681c8c92d3e4879838b20758889e59.jpg "Joey Wheeler y sus amigos tratando de entender la intranet CloudSchool")
+![](http://archivo.eluniversal.com.mx/img/2013/07/Ciu/sep_computadoras-movil.jpg "Alumnos usando la intranet CloudSchool")
