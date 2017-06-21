@@ -50,4 +50,6 @@ Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo g
 
 [*Ministerio de Educacion del Perú*](http://www.minedu.gob.pe "Ministerio de Educacion del Perú")
 
+[*Youtube*](https://www.youtube.com/?hl=es-419&gl=PE "Tutoriales Virtuales")
+
 [*Wikipedia*](https://es.wikipedia.org/wiki/Wikipedia:Portada "Enciclopedia Virtual")
