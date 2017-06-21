@@ -44,7 +44,7 @@ Ser una empresa que desarrolle y optimice el sistema de educacion, permitiendo g
 
 [*Biblioteca Nacional del Perú*](http://www.bnp.gob.pe/index.php/es/ "Biblioteca Nacional del Perú")
 
-[*Cambridge Dictionary*](http://dictionary.cambridge.org/es/ "Cambridge Dictionary")
+[*Cambridge Dictionary*](http://dictionary.cambridge.org/es/ "Diccionario Ingles/Español")
 
 [*Mathway*](https://www.mathway.com/Algebra "Enciclopedia Matematica Virtual")
 
