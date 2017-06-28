@@ -1,4 +1,3 @@
-
 /*Body*/
 #l1-body {
             background-color: #2B78E4;
@@ -13,8 +12,20 @@
 #a-body {
 		background-color:#CEF6F5;
 		}
- 
+
+#x1-body{
+		background-color: #2B7BE4;
+		font: bold 120% cursive;
+		font-size:25px;
+		}
  /*Img*/
+ 
+		 #x-flecha{
+			top: 140px;
+			left: 1315px;
+			position: absolute;
+		}
+
         #l1-img{
             display:block;
             margin: auto;
@@ -80,6 +91,13 @@
 			box-shadow:0 0 .5rem rgba(0, 0, 0 0.42);
 		}
 /*Estilos de letra*/
+		
+		#x-li{
+			text-align:left;
+			padding:7px;
+			list-style-type:none;
+		}
+
 		#x-titulo-crear{
 			margin-left:20px;
 		}
@@ -140,6 +158,13 @@
 		
 
 /*Input*/
+
+		#x-fecha{
+			font: bold 100% cursive;
+			top: 160px;
+			left: 1025px;
+			position: absolute;
+		}
         #l1-User{
             display: block;
             margin: auto;
@@ -168,7 +193,99 @@
 			font-size:16px;
 			margin-bottom:10px;
 		}
+		#x-buscar{
+			width:70%;
+			/*background: url(https://image.flaticon.com/icons/svg/54/54527.svg) no-repeat ;*/
+			background-position: 4px -91px;
+			background-color:white;
+		}
+		
+		input:checked + .slider {
+		  background-color: #2196F3;
+		}
+
+		input:focus + .slider {
+		  box-shadow: 0 0 1px #2196F3;
+		}
+
+		input:checked + .slider:before {
+		  -webkit-transform: translateX(26px);
+		  -ms-transform: translateX(26px);
+		  transform: translateX(26px);
+		}
+
+		
 /*Divisor, header y sections*/
+		#x-opciones{
+			background: linear-gradient(#9FD0FF,#86C2FF);
+			margin-top:5px;
+		}
+		
+		#x-switchs{
+			margin-left: 70%;
+			width: 100px;
+			padding-top: 15px;
+		}
+		
+		#x-der{
+			margin-left:50%;
+		}
+		
+		#x-uno{
+			margin:20px;
+			height:84px;
+			background: linear-gradient(#7CF5FD,#3B6CB4);
+		}
+		
+		#x-dos{
+			margin:20px;
+			height:84px;
+			text-align:center;
+			font-size:20px;
+			background: linear-gradient(#7CF5FD,#3B6CB4);
+		}
+
+
+		#x-tres{
+			margin:20px;
+			height:350px;
+		}
+
+
+		.switch{
+			clear: both;
+			margin-top: 10px;
+			position: relative;
+			display: inline-block;
+			width: 60px;
+			height: 34px;
+		}
+		
+		.switch input {display:none;}			
+						
+		#x-listas{
+		float: left;
+		width: 50%;
+		margin-left: 80px;
+		}
+		
+		#x-listaC{
+			padding-top:5px;
+			color: black;
+			margin:auto;
+			width:700px;
+			height:560px;
+			margin-top: 20px;
+			background-image:url("http://orig08.deviantart.net/4f35/f/2013/243/1/5/hoja_de_cuaderno_png_by_luueditionss-d6kgcxo.png");
+
+		}
+		#x-izq{
+			float:left;
+			width:50%;
+			text-align:center;
+			height:670px;
+		}
+
 		#A-div{
 			width:960px;
 			margin:auto;
@@ -231,7 +348,8 @@
 
 		}
 		
-@media screen and (max-width: 950px){
+						
+	@media screen and (max-width: 950px){
 		header .logo,
 		header #menu{
 			width:100%;
@@ -251,6 +369,11 @@
 		#A-header #A-logo{
 			border-radius:10px;
 			margin-top:60px;
+		}
+		
+		#x-header{
+			height: 70px;
+			margin:auto;
 		}
 		#x-ingresar{
 			margin-left:80px; 
@@ -301,6 +424,9 @@
 			width:1500px;
 			margin:auto;
 		}
+		#x1-contenedor{
+			width: 1420px;
+		}
 		#x-cuadrado{
 			border:15px solid white; 
 			width:400px; 
@@ -313,6 +439,39 @@
 		}	
 			
 /*Boton*/
+
+		.slider {
+		  position: absolute;
+		  cursor: pointer;
+		  top: 0;
+		  left: 0;
+		  right: 0;
+		  bottom: 0;
+		  background-color: #ccc;
+		  -webkit-transition: .4s;
+		  transition: .4s;
+		}
+		
+		.slider:before {
+		  position: absolute;
+		  content: "";
+		  height: 26px;
+		  width: 26px;
+		  left: 4px;
+		  bottom: 4px;
+		  background-color: white;
+		  -webkit-transition: .4s;
+		  transition: .4s;
+		}
+		
+		.slider.round {
+		  border-radius: 34px;
+		}
+
+		.slider.round:before {
+		  border-radius: 50%;
+		}
+		
         #l1-boton{
             display: block;
             margin:auto;
@@ -382,6 +541,15 @@
 			border-radius:10px;
 		}
 /*Links*/		
+
+		#x-exclamacion{
+			float:left;
+		}
+
+		#x-login{
+			text-align:right;
+			margin-bottom: 20px;
+		}
         #l1-link1{
             display: block;
             margin:auto;
