@@ -9,9 +9,9 @@
 			font-family:Arial;
 		}
 
-#a-body {
-		background-color:#CEF6F5;
-		}
+#A1-body {
+		background-image:url(https://userscontent2.emaze.com/images/694eb301-12ef-4c09-aaa6-6bcbc801a2aa/0b8cbd5f-2287-41e6-b58a-a794c95a978f.jpg);
+    }
 
 #x1-body{
 		background-color: #2B7BE4;
@@ -19,6 +19,12 @@
 		font-size:25px;
 		}
  /*Img*/
+ 
+	 @media (max-width:500px){
+		.logo{
+			display:none;
+		}
+	}
  
 		 #x-flecha{
 			top: 140px;
@@ -144,6 +150,14 @@
 			margin: auto;
 			text-align:center;
 		}
+		
+		#A1-Titulo{
+			color: #fff;
+			text-align: center;
+			margin: 0;
+			font-size: 30px;
+			margin-bottom: 20px;
+		}
 		#A-descripcion{
 			color: white;
 			font-size:14px;
@@ -158,6 +172,16 @@
 		
 
 /*Input*/
+
+		#A1-in{
+			width: 100%;
+			margin-bottom: 20px;
+			padding: 7px;
+			box-sizing: border-box;
+			font-size: 17px;
+			border: none;
+		}
+
 
 		#x-fecha{
 			font: bold 100% cursive;
@@ -216,6 +240,17 @@
 
 		
 /*Divisor, header y sections*/
+
+		#A-contacto {
+			width: 450px;
+			margin: auto;
+			background: rgba(0,0,0,0.4);
+			padding: 10px 20px;
+			box-sizing: border-box;
+			margin-top: 20px;
+			border-radius: 7px;
+			margin-bottom:15px;
+		}
 		#x-opciones{
 			background: linear-gradient(#9FD0FF,#86C2FF);
 			margin-top:5px;
@@ -298,17 +333,25 @@
 			height:85px;
 			margin:auto;
 		}
+		#A2-header{
+			margin-top:120px;
+			width:495px;
+			height:85px;
+			margin:auto;
+		}
+		
 		.A1-header{
 			width:100%;
-			background:#2B78E4;
+			background-image:url(http://www.escuela20.com/v_portal/inc/imagen.asp?f=profesores51.jpg&w=496&c=apartados);
 			margin-bottom:20px;
 			overflow:hidden;
+			margin-bottom:100px;
 		}
 		
 		.wrapper{
 			width:90%;
 			max-width:1000px;
-			margin:auto;
+			margin-left:200px;
 			overflow:hidden;
 		}
 		
@@ -333,7 +376,7 @@
 		}
 		.header2{
 			position:fixed;
-			height:100px;
+			height:120px;
 		}
 		.header2 .logo{
 			line-height:100px;
@@ -345,7 +388,15 @@
 
 		.contenido{
 			padding-top:200px;
-
+		}
+		
+		/*Carousel*/
+		.container{
+			position:fixed;
+			left:10%;
+			top:50%;
+			margin-left:-150px;
+			margin-top:-100px;
 		}
 		
 						
@@ -470,22 +521,8 @@
 
 		.slider.round:before {
 		  border-radius: 50%;
-		}
-		
-        #l1-boton{
-            display: block;
-            margin:auto;
-            margin-top: 40px;
-            background-color: White; 
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-            color: black;
-            font-size: 16px;
-            border: 2px solid black;
-            transition-duration: 0.4s;
-            cursor: pointer;
-        }
+		}	
+        
 		
 		#x-button{
 			margin-top:30px; 
@@ -493,11 +530,6 @@
 			width:100px; 
 			height:50px;"
 		}
-        
-        #l1-boton:hover {
-            background-color: black;
-            color: white;
-        }
 		
 		#A-boton{
 			display: block;
@@ -540,6 +572,17 @@
 			cursor:pointer;
 			border-radius:10px;
 		}
+		
+		#A2-boton {
+			background: #31384a;
+			color: #fff;
+			padding: 20px;
+			margin:auto;
+		}
+
+		#A2-boton:hover {
+				cursor: pointer;
+		}
 /*Links*/		
 
 		#x-exclamacion{
@@ -550,25 +593,19 @@
 			text-align:right;
 			margin-bottom: 20px;
 		}
-        #l1-link1{
-            display: block;
-            margin:auto;
-            margin-top: 40px;
-            text-align:center
-        }
-        #l1-link2{
-            display: block;
-            margin:auto;
-            margin-top: 10px;
-            text-align:center
-        }
 		#A-link1{
 			display: block;
 			margin: auto;
 			text-align:center;
 		}
+		#A-link1:hover {
+			text-decoration:underline;color:#C0C0C0;
+		}
 		#A-link2{
 			display: block;
 			margin: auto;
 			text-align:center;
+		}
+		#A-link2:hover {
+			text-decoration:underline;color:#C0C0C0;
 		}
